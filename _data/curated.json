@@ -1,5 +1,6 @@
 [
 	{
+<<<<<<< HEAD
 		"curated_id": "kAP3XjuXmwTD1236dV123S2PQQ4iyxTTwkTWHFUl116D116JDxLZWD7Q1bxFYgL8TzH470116eQRro7SxpnI3b116AAEYEYZfg117117",
 		"item_date": "2016-08-01 12:39:00",
 		"title": "Tweet Introducing ghost our online schema migration tool for MySQL by ShlomiNoach httpstcoBbpelcRkrq httpstcoyRK3v8vhc1",
@@ -52,10 +53,33 @@
 		"item_date": "2016-08-02 00:00:00",
 		"title": "Attic Labs raises 81M and launches its new decentralized database",
 		"url": "https://techcrunch.com/2016/08/02/attic-labs-noms-noms/",
+=======
+		"curated_id": "TE123DWGVLJ2LmnGu1164FlOIh5nw1LMoOC9hTUa91AxYO6bUlGEuXIjluZcN813ApUkAEdHDpORAJVdL9vBKR123Q117117",
+		"item_date": "2016-08-06 16:21:43",
+		"title": "Make Algorithms Accountable",
+		"url": "http://www.nytimes.com/2016/08/01/opinion/make-algorithms-accountable.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7ydQqEYr5oBs3nXbqV5998Du123QjIEco46rCQrYW123PQvEjXKUWvgfx55my8116SWPpb9116jzhldLO1zb9Zee26jR123g117117",
+		"item_date": "2016-08-06 16:22:54",
+		"title": "In the Clutches of Algorithms",
+		"url": "http://www.digitalpedagogylab.com/hybridped/in-the-clutches-of-algorithms/",
+		"domain": "www.digitalpedagogylab.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YVzkCIw123ykwSEcv11612311632vIVpGrLfpPXFEh09405D0HajLIEUBR123Y97meX1l116jP81qBMxubySYSIjDJ116r4YDo1w117117",
+		"item_date": "2016-08-04 00:00:00",
+		"title": "Facebook AntiClickbait Algorithm Change",
+		"url": "https://techcrunch.com/2016/08/04/crunch-report-facebook-anti-clickbait-algorithm-change/",
+>>>>>>> origin/gh-pages
 		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
+<<<<<<< HEAD
 		"curated_id": "gjU1CHxk1YHqaHar123fQMg116CFeNbLxqxj1GlwZTKWgzzgUBVxZrd1PRW0ecQdpZwJjSEryxI4AafQfCVpiP3Csw117117",
 		"item_date": "2016-07-27 00:00:00",
 		"title": "Amazon RDS for SQL Server Support for Native BackupRestore to Amazon S3",
@@ -132,10 +156,57 @@
 		"item_date": "2016-07-18 00:00:00",
 		"title": "Serverless Big Data Pipeline on AWS",
 		"url": "https://dzone.com/articles/serverless-big-data-pipeline-on-aws",
+=======
+		"curated_id": "5pN7Oz9jsGiGsOuqJyFHmyVkjEFlnaC2sHUqUCSivmu9iVLjpuqadpTME88vgThN9f2Qh1Xd0aY8R6FEDyU1hQ117117",
+		"item_date": "2016-08-05 00:00:00",
+		"title": "Facebook to suppress clickbait stories",
+		"url": "http://www.bbc.co.uk/news/technology-36985662",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "YIl8BxI3EleypYLFllOufwOklgpo3AgKYFwvWrK2YQj123qPRqhzJ7PxB9vqRF8cquii34gQ6alTa116twwrbIfS8w117117",
+		"item_date": "2016-08-05 00:00:00",
+		"title": "Bits Daily Report Facebook Bars Cheesy Headlines That Let Readers Down",
+		"url": "http://www.nytimes.com/2016/08/06/technology/daily-report-facebook-bars-cheesy-headlines-that-let-readers-down.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9Q116123Hnn6nh3n0kFNL7O3OQJsEds4XxGuxErb8dt4oClyp1233Kn123XYjKF116uEYhNWBf7QwO4hKsXtyPe123qSXaXYjQ117117",
+		"item_date": "2016-02-12 00:00:00",
+		"title": "Up to code An algorithm is helping Chicago health officials predict restaurant safety violations",
+		"url": "http://www.pbs.org/newshour/bb/chicago-revamps-restaurant-inspections-by-tapping-into-social-media/",
+		"domain": "www.pbs.org",
+		"image": ""
+	},
+	{
+		"curated_id": "116r4YGhi123GSh61SXylJAA4JbWpciAWaOA7GLsSeZzkSPu88dcW1qpb4CkxWVrpVT8v8ALM885JB1233NYxr567bLA117117",
+		"item_date": "2016-07-23 11:21:49",
+		"title": "This Guy Trains Computers to Find Future Criminals",
+		"url": "http://www.bloomberg.com/features/2016-richard-berk-future-crime/",
+		"domain": "www.bloomberg.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AdI6116ZQolGwNcJg4r3ta2PO01s83Qg3J578QHhIMlLQ1YfB61VF0Zei4UMn2i8tWspMSWmxiAh1ZgubkdI1fPA117117",
+		"item_date": "2016-07-20 10:12:51",
+		"title": "To Crack The New Facebook Algorithm Get Back To Fundamentals",
+		"url": "http://www.inc.com/walter-chen/to-crack-the-new-facebook-algorithm-get-back-to-fundamentals.html",
+		"domain": "www.inc.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bGLHkYs3dYsoSn6rl2il0WWT9FGFo88QMIoTnRThqP6I8huhjwOZGpmokjgIdwN6gJR6pecaOfEJZwvRLzvWDw117117",
+		"item_date": "2016-07-18 00:00:00",
+		"title": "The Algorithms of Ants Applied to IoT Connectivity",
+		"url": "https://dzone.com/articles/ants-use-simple-methods-to-build-communication-net",
+>>>>>>> origin/gh-pages
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
+<<<<<<< HEAD
 		"curated_id": "r7iJQkvU0T116vHmKpptiap9hQFp1160ySNx4b8q3pwFfnYBI7bhHsRc8NF18zzOa116cHtL123iqtRtD65xKbRU2bu1jw117117",
 		"item_date": "2016-07-18 00:00:00",
 		"title": "DBmaestro Releases Expanded and Improved Open API",
@@ -340,10 +411,65 @@
 		"item_date": "2016-06-24 00:00:00",
 		"title": "Docker Automatic MySQL Slave Propagation",
 		"url": "https://dzone.com/articles/docker-automatic-mysql-slave-propagation",
+=======
+		"curated_id": "Ct123ZQ12unQfM6RAepgi6thvXJVHn8LEtFfN7QOy116VH116xe3WV3JTV6NrLnvde1239FqVygIx4muMlrh28z5oSe0tw117117",
+		"item_date": "2016-07-19 00:00:00",
+		"title": "InQTel Algorithmia Forge AlgorithmasaService Partnership",
+		"url": "http://blog.executivebiz.com/2016/07/in-q-tel-algorithmia-forge-algorithm-as-a-service-partnership-katie-gray-comments/",
+		"domain": "blog.executivebiz.com",
+		"image": ""
+	},
+	{
+		"curated_id": "H66TVkrgxSwAjCdOvoCLJdOFO6cDYTMzdzebE86NA4W123TGGoAkR87123yOpSS5x84nPq7VnzqEur2gHIYYmemAUg117117",
+		"item_date": "2016-07-15 00:00:00",
+		"title": "The Algorithm Explaining How Claw Machines are Programmed to Lose",
+		"url": "https://blog.adafruit.com/2016/07/15/the-algorithm-explaining-how-claw-machines-are-programmed-to-lose/",
+		"domain": "blog.adafruit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "yBVL9H9PqGbKpx8HOdF123EZ1234G2Yjp1165Q8w55O123cqnNEZEvDa8MzLOWHao5YA3f8NupznIA116gVTAsY690JUaylA117117",
+		"item_date": "2016-07-14 00:00:00",
+		"title": "Dropboxs Lepton lossless image compression really uses a middleout algorithm",
+		"url": "https://techcrunch.com/2016/07/14/dropboxs-lepton-lossless-image-compression-really-uses-a-middle-out-algorithm/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116t123StyAA7emE6h9116ssjUJT4HApcCUnqMLYCmMiV2Mula5euONrEIFPNJBxt6sMP6noQT0fXoN7Mfvn09RQ116UWA117117",
+		"item_date": "2016-05-12 00:00:00",
+		"title": "Twitter and Periscope are working on a realtime livestream scanning algorithm",
+		"url": "http://thenextweb.com/apps/2016/05/12/twitter-periscope-real-time-video-scannning/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1WpOQQLQz4dsGwtRp0n7yW4cNvkoLwBC9DC2JhVbdmX7IspME4AGpIvfBO9JDhnGHZchwJRDvgiEIreUlIJxjw117117",
+		"item_date": "2016-05-19 00:00:00",
+		"title": "Algorithms clickworkers and the befuddled fury around Facebook Trends",
+		"url": "http://www.niemanlab.org/2016/05/algorithms-clickworkers-and-the-befuddled-fury-around-facebook-trends/",
+		"domain": "www.niemanlab.org",
+		"image": ""
+	},
+	{
+		"curated_id": "8NFCu6p3xLCvrQPBuJbrLJh3PNOEXzF4tdNBook9dK9oXHOk3123MGV8Y3u2FDQSiVXfIpLDHEs6YXsId0SWbOcA117117",
+		"item_date": "2016-05-23 00:00:00",
+		"title": "Algorithm Visualizer  Write down your algorithm to be visualized",
+		"url": "http://jasonpark.me/AlgorithmVisualizer/",
+		"domain": "jasonpark.me",
+		"image": ""
+	},
+	{
+		"curated_id": "U7p123QHP3p1Epx9LUrYTrbyyEe123a0NA6zJJmsWR0oRtdx0pDXEvpypYGiaEqcWU39BIciyAfMwQfC7muw8v2w116A117117",
+		"item_date": "2016-06-05 00:00:00",
+		"title": "Visualizing Algorithms Before Implementation",
+		"url": "https://dzone.com/articles/visualizing-algorithms-before-implementation",
+>>>>>>> origin/gh-pages
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
+<<<<<<< HEAD
 		"curated_id": "q3dA5QBz2LKUrxyZ8otcIofbPJ2nF9mObReQDkIFDVYdXODkr0xsf3TquPKVLpV8N71ds2GRQApRGOD1jPulsQ117117",
 		"item_date": "2016-06-30 00:00:00",
 		"title": "The Guts n Glory of Database Internals Managing Concurrency",
@@ -644,10 +770,145 @@
 		"item_date": "2016-03-06 00:00:00",
 		"title": "Communicating With Couchbase via a Dockerfile Script and Docker",
 		"url": "https://dzone.com/articles/communicating-with-couchbase-via-a-dockerfile-scri",
+=======
+		"curated_id": "12373FJnF123YU8G82iXm8r5DnriGRh19LcLlWgrPP1WfIlCdelcIh5Aw2goGNOoSXPZHW5yB5T5Oy116vDfrDKGb5FA117117",
+		"item_date": "2016-06-30 00:00:00",
+		"title": "Facebooks extraordinary political influence under microscope",
+		"url": "http://disruptiveviews.com/facebooks-extraordinary-political-influence-under-microscope/",
+		"domain": "disruptiveviews.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FqWyukT9CEHkIsEJJQYcR0rcYWEVrMlJTm7Gvq116Bl9yESPqPss116487QOwutvjfGmk6o7go51flNuoN8f3ylmRA117117",
+		"item_date": "2016-05-19 00:00:00",
+		"title": "Contributing OpEd Writer The Real Bias Built In at Facebook",
+		"url": "http://www.nytimes.com/2016/05/19/opinion/the-real-bias-built-in-at-facebook.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "SxMCoXclnRZcLLtdsj116RiilQ12321163pvId62hteae3116KITqO8zjPEmYR2DGlkXDriggp123jWhYCK4Wx6Lf6PF0Uew117117",
+		"item_date": "2016-05-10 00:00:00",
+		"title": "Facebook admits its trending news algorithm needs a lot of human help",
+		"url": "http://www.theverge.com/2016/5/10/11649296/facebook-explains-human-role-in-trending-topic-selection",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qADJPJH1Rh4116mkA6l0rl2bhGSVo1116Ee5FRoloKqjUdJh13fNwL7ghXqb1II8WVZEQAPqvbFB82Br6Z6DFwGOhg117117",
+		"item_date": "2016-04-15 10:30:20",
+		"title": "Investigating the algorithms that govern our lives",
+		"url": "http://www.cjr.org/innovations/investigating_algorithms.php",
+		"domain": "www.cjr.org",
+		"image": ""
+	},
+	{
+		"curated_id": "GCg116d311634rV8vZsHAYs2QR2r93uIGbKEJ1rMsZZTwYhCj4JS0hohzHSOetk6Uig116Sv7123DHpNGsrlkK3kJmo1234Q117117",
+		"item_date": "2016-04-12 00:00:00",
+		"title": "2 reasons Im optimistic about Instagrams algorithm change",
+		"url": "http://venturebeat.com/2016/04/12/despite-initial-backlash-instagrams-algorithm-change-gets-two-thumbs-up/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QGXUj2cZ116ADyQY6ujcyXhath3wFDtyTdgMyeVfZ8408QGl3123gnH83JixGqEpe0qb08o2Q8bU2TlOSFkqxGZrjg117117",
+		"item_date": "2016-04-12 22:55:26",
+		"title": "xkcd Algorithms",
+		"url": "http://xkcd.com/1667/",
+		"domain": "xkcd.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lws8wsvzkTEw3RhpiseqXjra4XWisnAXTKnKYcPG3HBNUYv2ryqi4fnnlFmBqjE67116sByynmcsttpEFSs7QRlQ117117",
+		"item_date": "2016-04-11 00:00:00",
+		"title": "Now you can even have your clothes chosen by algorithm",
+		"url": "http://thenextweb.com/lifestyle/2016/04/11/can-now-clothes-chosen-algorithm/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "G2Ymwo123P8nZ537iCH8R5hWazuCOpfNRQ116luI3NJ6S2ELY7MRdozNhNHkNG6QssMZX4AJg48NmwHQ0mS8as6VfA117117",
+		"item_date": "2016-04-06 00:00:00",
+		"title": "Infographic What Are Algorithms",
+		"url": "http://blog.algorithmia.com/2016/04/infographic-what-are-algorithms/",
+		"domain": "blog.algorithmia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "PcZq4xe0o5ZMAPn1123Gfi3EiU8LzzDwAYmPFl75NdOAFKp7jSjDXrzeORRUl3xE5uSmXu3EVoyXcPzAmdP5MrAA117117",
+		"item_date": "2016-03-15 00:00:00",
+		"title": "Instagram to Switch to Algorithmic Feed Order",
+		"url": "http://blog.instagram.com/post/141107034797/160315-news",
+		"domain": "blog.instagram.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uwD1233L9NK2116gTFkqsccgYgOtE9N17onM116HJniFwZU8xWbaZj123Ve5116ff8YPmUVE7MBF5116116W7QlOvQKDrrfKgZ6Q117117",
+		"item_date": "2016-03-15 00:00:00",
+		"title": "The photos you see on Instagram will soon be decided by an algorithm",
+		"url": "http://venturebeat.com/2016/03/15/the-photos-you-see-on-instagram-will-soon-be-decided-by-an-algorithm/",
+		"domain": "venturebeat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JlaVTZcX5BSxjaYnQGFIk145eEYeyB0YDkOwJt0upHJr8WX7ALn03fL116wztrPF701gqcRoHT123dTH4CiCB6L18A117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "Machine Algorithm Predicts Startup Success For Novelti",
+		"url": "http://www.programmableweb.com/news/machine-algorithm-predicts-startup-success-novelti/brief/2016/03/22",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kh4IqxmeZ9Gf6PM9qjGF1kskFPvChO8dXTT4I6d116kh8oRgti1gmhUbZ3u116zND6ndPXEMIr5116eGaCrwwvVHrQyA117117",
+		"item_date": "2016-03-23 00:00:00",
+		"title": "AI in Digital Wealth Management Algorithms",
+		"url": "http://bankinnovation.net/2016/03/ai-in-digital-wealth-mgt-algorithms/",
+		"domain": "bankinnovation.net",
+		"image": ""
+	},
+	{
+		"curated_id": "ivcd72noRlbpC52osMDc28Vo7VnnF1Pe2h3J5VjyjgsIwPwJ0bZo4o1MKHZs6FpuBj116DmvUklzptU2Kpl3BO6A117117",
+		"item_date": "2016-03-22 00:00:00",
+		"title": "SocialFlow U Algorithmic Feeds in Social Networks",
+		"url": "http://www.socialflow.com/socialflow-u-algorithmic-feeds-in-social-networks/",
+		"domain": "www.socialflow.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uPPg42pIAjgIw5btWCT66qJichE55J5xR1uf2A2k4xemj2cgPHkk4JZ1PHEWPgbmYwt1GBSXKnSflZ6rOxdH2w117117",
+		"item_date": "2016-03-15 00:00:00",
+		"title": "Instagram is About to Change in a Huge Way An Algorithm Based Timeline is Coming",
+		"url": "https://blog.bufferapp.com/instagram-news-feed-algorithm",
+		"domain": "blog.bufferapp.com",
+		"image": ""
+	},
+	{
+		"curated_id": "J1162JRvnsna5MrGyKEzqFxXCMJT76lbH2LHXriV3St9Ytz3hNuGAf2mGjMIvIi7bJtF5QQo0lkYwmubsAoXKNiA117117",
+		"item_date": "2016-03-17 00:00:00",
+		"title": "Twitter quietly turned on its new algorithmic timeline for everyone",
+		"url": "http://thenextweb.com/twitter/2016/03/17/twitter-quietly-turned-new-algorithmic-timeline-everyone/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "z9RRNWpeXoCWrHUvtJoRVKoY0pOaS8su4F5VWn6XekvZYyeUANEDytGg5123F16I3SeIosc7123ub8pAVWRg53uC9g117117",
+		"item_date": "2016-03-09 16:17:02",
+		"title": "We Now Have Algorithms To Predict Police Misconduct",
+		"url": "http://fivethirtyeight.com/features/we-now-have-algorithms-to-predict-police-misconduct/",
+		"domain": "fivethirtyeight.com",
+		"image": ""
+	},
+	{
+		"curated_id": "c1233HvoKgguW2lgVVtBcFQJJs116bqWPrDeICQAcKKKL9i123GGKg3lapexP0YWaRhd4UgwdSvImpc2rkb5w123fUzzYA117117",
+		"item_date": "2016-03-10 00:00:00",
+		"title": "New Algorithm Tests Job Candidates for Cultural Fit",
+		"url": "https://dzone.com/articles/new-algorithm-tests-job-candidates-for-cultural-fi",
+>>>>>>> origin/gh-pages
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
+<<<<<<< HEAD
 		"curated_id": "w3mD61169EzTfeVc123mCHqGNzP40P2vsJcJuCSaZxKXkphickSKwpIzFsZR9WeLQPUT4WLroCK8JrheV08HG7c7pg117117",
 		"item_date": "2016-02-29 00:00:00",
 		"title": "AWS ImportExport Snowball Update  Export Now Available",
@@ -756,10 +1017,17 @@
 		"item_date": "2016-01-26 00:00:00",
 		"title": "Reporting JSON Data With Couchbase and PowerBI",
 		"url": "https://dzone.com/articles/reporting-json-data-with-couchbase-and-powerbi",
+=======
+		"curated_id": "116JXaVkyh6yM4ZfUMrJLhdg1169BqLrsGPLDxbvE9YBRJlDvA3eYKuHdt5cN8a6vI1ea24qNjGkK08ZAUPPp5123dyw117117",
+		"item_date": "2016-02-29 00:00:00",
+		"title": "Algorithms The Assignment Problem",
+		"url": "https://dzone.com/articles/algorithms-the-assignment-problem",
+>>>>>>> origin/gh-pages
 		"domain": "dzone.com",
 		"image": ""
 	},
 	{
+<<<<<<< HEAD
 		"curated_id": "RK5IUIL4cbomzg7euMvTucsvASXf9116i123Qq67ObMFyHJ95123PqWDKtdXGpbmcokzEZTLKR116lc4ZNVABC5Rt123Ak123Q117117",
 		"item_date": "2016-01-25 00:00:00",
 		"title": "Read XML Files and Insert into Database Table",
@@ -2814,5 +3082,125 @@
 		"url": "http://www.forbes.com/sites/jonbruner/2012/04/12/will-data-monopolies-paralyze-the-internet/",
 		"domain": "www.forbes.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
+=======
+		"curated_id": "Wk3NoGFhtQYWJetSkxAC1230fE123IMKPUrXDwtIUkOLOJElx4qlS1heSmGUilpT3LqsF0sFx78116PRCNHfmiN4jQlA117117",
+		"item_date": "2016-02-26 00:00:00",
+		"title": "Netflix lifted the lid on how the algorithm that recommends you titles to watch actually works",
+		"url": "http://www.businessinsider.com/how-the-netflix-recommendation-algorithm-works-2016-2",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "N3CDJSh1169LgU33sD4BTK123AXcqYYYW81RldT7l7WQv8wHfd4Ymqh5wPviWyBYOEYXjL4pklc46Kmiql6o7Wg6pA117117",
+		"item_date": "2016-02-24 10:26:10",
+		"title": "How to hold governments accountable for their algorithms",
+		"url": "http://www.slate.com/articles/technology/future_tense/2016/02/how_to_hold_governments_accountable_for_their_algorithms.single.html",
+		"domain": "www.slate.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Q8KVt3p0FGX00ygbWTVRtJ123xVkoVdwJG12RMXbc9i116rhuE116CJqcik1U116Ydic7BHGl123LvnhYzn3TMr0muhlgBfQ117117",
+		"item_date": "2016-02-24 00:00:00",
+		"title": "The Challenge of Opening up Federal Government Algorithms",
+		"url": "http://www.digitalgov.gov/2016/02/24/the-data-briefing-the-challenge-of-opening-up-federal-government-algorithms/",
+		"domain": "www.digitalgov.gov",
+		"image": ""
+	},
+	{
+		"curated_id": "116spgLEmF8Phf8tkkxn6v4zwY0116GyG2ZBPlO6XGIM11600123xOa7mwtxD123HxwOGAzJVw3ZvTDEDQo7y7nv8rC9HWSA117117",
+		"item_date": "2016-02-22 00:00:00",
+		"title": "How the Algorithm Economy and Containers are Changing the Way We Build and Deploy Apps Today",
+		"url": "http://blog.algorithmia.com/2016/02/algorithm-economy-containers-microservices/",
+		"domain": "blog.algorithmia.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NlVJ1G5xar5d5notgyY99LCujD9vHE8N1Pyf3LNDEF116vL70CREwM9slDPkfOyeTkSwWyMgDbdcxKE0n4m5KmpQ117117",
+		"item_date": "2016-02-02 12:14:08",
+		"title": "New Algorithm to find Beautiful Quiet and Happy Routes in the City",
+		"url": "http://iniwall.com/2016/01/24/new-algorithm-to-find-beautiful-quiet-and-happy-routes-in-the-city/",
+		"domain": "iniwall.com",
+		"image": ""
+	},
+	{
+		"curated_id": "76atpPVDY12VRigqsLZlHc22RoGgJfCtjKNvyae12315CPAV6xbadwfbIshJet116wjr4yuPV116vhuyofgiSPvxMivg117117",
+		"item_date": "2016-01-08 12:25:34",
+		"title": "The risks of letting algorithms judge us",
+		"url": "http://www.cnn.com/2016/01/06/opinions/schneier-china-social-scores/index.html",
+		"domain": "www.cnn.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116urgGBdK26OJ6q116UrQLLtUheABkuwSijZuu2dMogqsJ5XE8pJYAsiHfviDjKXvc2jFIzwOao116bGLJdBIJmsd0w117117",
+		"item_date": "2016-01-08 00:00:00",
+		"title": "Replacing Judgment with Algorithms",
+		"url": "https://www.schneier.com/blog/archives/2016/01/replacing_judgm.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WmGaRwWU7A1FKbnVoyUU3qqz9VPGy123EZQV3zHyy1wkf30M0MaR75ieXe4DFu9igltMwfEsduJOwzFQYe8ufJZw117117",
+		"item_date": "2015-12-22 14:00:03",
+		"title": "Algorithms Need Managers Too",
+		"url": "https://hbr.org/2016/01/algorithms-need-managers-too",
+		"domain": "hbr.org",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/hbr-org201601algorithms-need-managers-too.png"
+	},
+	{
+		"curated_id": "116HOvXYe123gf7Mn63KDneXkIvh34Xd1237m64VrZYEp0ocaQiDjENk8AXATtPf2XvVYNvYd3aXlEL5hmrq7zXhx123Jg117117",
+		"item_date": "2015-11-28 05:31:13",
+		"title": "7 Reasons why the Algorithmic Business will Change Society",
+		"url": "https://www.linkedin.com/pulse/7-reasons-why-algorithmic-business-change-society-mark-van-rijmenam",
+		"domain": "www.linkedin.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IGj1NKfLyDpk2TRlIZ5KehNaSVIZ3CKbYLzKUtBbKg8123G5VKfV6123K0ZrJtvIBA30yxL98okid1TGWxd8inII8w117117",
+		"item_date": "2015-09-26 00:00:00",
+		"title": "The data does not lie I am boring",
+		"url": "http://abject.ca/data-does-not-lie/",
+		"domain": "abject.ca",
+		"image": ""
+	},
+	{
+		"curated_id": "yPOeVDTq1QzcHDfpgHWE7IdvWfyFYrMR123E9E123OKBvF9RzY77QvF116xYZC1flh5kxqmClEwoorWFhlcz123J123vFooQ117117",
+		"item_date": "2015-09-15 20:41:23",
+		"title": "Kin Lane on Twitter Easier said than done but here is the antitwitter numbers for how to get through the 2K slump algorithms httptcog6HEiZdaKs",
+		"url": "https://twitter.com/kinlane/status/643993052256845824/photo/1",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZkNiC2vuwEYdwyNm9FV5y5NgrWS64YagL4yx5xUcUsYkc4vszI3ZXqsg6Y5yV0iSdTfxcInaLTuRcfrkThZZEg117117",
+		"item_date": "2015-08-10 00:00:00",
+		"title": "Hidden in the Data Algorithms and Bias Q and A With Cynthia Dwork",
+		"url": "http://www.nytimes.com/2015/08/11/upshot/algorithms-and-bias-q-and-a-with-cynthia-dwork.html",
+		"domain": "www.nytimes.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-nytimes-com20150811upshotalgorithms-and-bias-q-and-a-with-cynthia-dwork-html.png"
+	},
+	{
+		"curated_id": "D6HkngcIg19qmZvwUgBYAq4slmouAkm116dO116TUGEdj65slSAUg8ReWs118knvC7xfdZvlMPHXA1knkKB41y116pfQ117117",
+		"item_date": "2015-02-24 00:00:00",
+		"title": "Algorithmia API Exposes Collective Knowledge of Developers",
+		"url": "http://www.programmableweb.com/news/algorithmia-api-exposes-collective-knowledge-developers/brief/2015/02/24",
+		"domain": "www.programmableweb.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsalgorithmia-api-exposes-collective-knowledge-developersbrief20150224.png"
+	},
+	{
+		"curated_id": "vltMoFEqJ8BwnJFtabCzVC20N2MLsqmSJ6jWToba3tW7vGwC784G31ky65Ht5OMwr47XNdyPpPo4YX5uipzHKQ117117",
+		"item_date": "2014-07-15 00:00:00",
+		"title": "Human Confirmation Bias In Monitoring Of Systems",
+		"url": "http://dyn.com/blog/human-confirmation-bias-in-monitoring-of-systems/",
+		"domain": "dyn.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/dyn-combloghuman-confirmation-bias-in-monitoring-of-systems.png"
+	},
+	{
+		"curated_id": "7Hs8Sx7wtZfL3j54fLW4yDtmtBOs0CLeCO40N6umv9bswmKoX3sqCE3F62JvqNVE7X123gPHd9YW7kIMI116ceqsCA117117",
+		"item_date": "2013-05-18 08:47:49",
+		"title": "Exponential backoff  Wikipedia the free encyclopedia",
+		"url": "https://en.wikipedia.org/wiki/Exponential_backoff",
+		"domain": "en.wikipedia.org",
+		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/en-wikipedia-orgwikiexponential_backoff.png"
+>>>>>>> origin/gh-pages
 	}
 ]
