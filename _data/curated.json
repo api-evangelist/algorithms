@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "cc0iUWNmHYp91Z2OCNOFtkx33Bh8myIS9q2Jp9RZToz9QcxZ116FtqK2B116aVKDCdzjc7uGae1236yUMr123uG9fP2GxA117117",
+		"item_date": "2016-10-15 00:00:00",
+		"title": "Vocations A Linguist Who Cracks the Code in Names to Predict Ethnicity",
+		"url": "http://www.nytimes.com/2016/10/16/jobs/a-linguist-who-cracks-the-code-in-names-to-predict-ethnicity.html?partner=rss&emc=rss",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ZKCYN5Mnk8BLxLZuA5guHi3a0PpKMEXL7CrXah6VBbfTUzfVqKvbywe2a4wSjPax8nUxbK1231y116VRKvhZzBjxTA117117",
 		"item_date": "2016-10-15 12:18:06",
 		"title": "Breaking the Black Box When Machines Learn by Experimenting on Us  ProPublica",
@@ -13,6 +21,22 @@
 		"title": "Heres How to Break the Chains of Facebooks Algorithm and Get Both Sides of the Political Debate",
 		"url": "http://www.motherjones.com/media/2016/10/social-media-news-facebook-algorithm-we-voters",
 		"domain": "www.motherjones.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iIINfC1236G6G0fV3h4W6116hTH50kD20APMsPwFBvn91vuJHjGcu4IQRRiWwLOJlBWQjqZhSxqwN70fkc0TXZDxqg117117",
+		"item_date": "2016-10-10 21:56:58",
+		"title": "Breaking the Black Box When Algorithms Decide What You Pay  ProPublica",
+		"url": "https://www.propublica.org/article/breaking-the-black-box-when-algorithms-decide-what-you-pay",
+		"domain": "www.propublica.org",
+		"image": ""
+	},
+	{
+		"curated_id": "2GjGdclQFC7jHgyTqP2cO5F7RjdVozM9w1p123vb3q12347RIPe22nN3gpUK0r15IHpS1KgMaTgI8sWNGvo761Me123g117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "An Israeli startup says it has taught an algorithm how to detect breast cancer",
+		"url": "http://www.businessinsider.com/zebra-teaches-algorithm-detect-breast-cancer-2016-10",
+		"domain": "www.businessinsider.com",
 		"image": ""
 	},
 	{
