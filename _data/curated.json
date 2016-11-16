@@ -902,21 +902,5 @@
 		"url": "http://www.programmableweb.com/news/algorithmia-api-exposes-collective-knowledge-developers/brief/2015/02/24",
 		"domain": "www.programmableweb.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-programmableweb-comnewsalgorithmia-api-exposes-collective-knowledge-developersbrief20150224.png"
-	},
-	{
-		"curated_id": "vltMoFEqJ8BwnJFtabCzVC20N2MLsqmSJ6jWToba3tW7vGwC784G31ky65Ht5OMwr47XNdyPpPo4YX5uipzHKQ117117",
-		"item_date": "2014-07-15 00:00:00",
-		"title": "Human Confirmation Bias In Monitoring Of Systems",
-		"url": "http://dyn.com/blog/human-confirmation-bias-in-monitoring-of-systems/",
-		"domain": "dyn.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/dyn-combloghuman-confirmation-bias-in-monitoring-of-systems.png"
-	},
-	{
-		"curated_id": "7Hs8Sx7wtZfL3j54fLW4yDtmtBOs0CLeCO40N6umv9bswmKoX3sqCE3F62JvqNVE7X123gPHd9YW7kIMI116ceqsCA117117",
-		"item_date": "2013-05-18 08:47:49",
-		"title": "Exponential backoff  Wikipedia the free encyclopedia",
-		"url": "https://en.wikipedia.org/wiki/Exponential_backoff",
-		"domain": "en.wikipedia.org",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/en-wikipedia-orgwikiexponential_backoff.png"
 	}
 ]
