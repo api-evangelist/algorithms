@@ -172,8 +172,10 @@ title: API Evangelist - Algorithms & APIs
 			{% endfor %}
 		{% endfor %}
 
+		tagslist: {{ tagslist}}<br />
+
 		{% assign tagArray = tagslist | split: "," %}
-		{% assign tagArray = tagArray | sort: %}
+		{% assign tagArray = tagArray | sort %}
 
 		tagArray: {{ tagArray}}<br />
 
