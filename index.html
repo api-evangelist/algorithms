@@ -150,19 +150,14 @@ title: API Evangelist - Algorithms & APIs
 		<p>{{ tool_content.header }}</p>
 	</header>
 		{% assign tools = site.data.tools.index %}
-		{{ tools }}<br />
 		{% assign tagslist = '' %}
-
 		{% for tool in tools %}
 			{% assign tags = tool.tags %}
-			tags: {{ tags }}<br />
 			{% assign tagArray = tags | split: "," %}
 			{% for tag in tagArray %}
 				{% assign tag = tag | strip %}
 				{% if approved_tags contains tag %}
-				<br />{{ tagslist }} CONTAINS {{ tag }}<br />
 					{% if tagslist contains tag %}
-
 					{% else %}
 						{% if tagslist != '' %}
 							{% assign tagslist = tagslist | append:',' %}
@@ -174,9 +169,6 @@ title: API Evangelist - Algorithms & APIs
 		{% endfor %}
 		{% assign tagArray = tagslist | split: "," %}
 		{% assign tagArray = tagArray | sort %}
-
-		tagArray: {{ tagArray}}<br />
-
 		{% for tag in tagArray %}
 			<h3>{{ tag }}</h3>
 			<div class="features">
