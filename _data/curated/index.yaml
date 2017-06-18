@@ -1,16 +1,4 @@
 ---
-- curated_id: 54b899e820262ac1201feba9b23020a4
-  item_date: "2013-05-18 08:47:49"
-  title: Exponential backoff - Wikipedia, the free encyclopedia
-  url: https://en.wikipedia.org/wiki/Exponential_backoff
-  domain: en.wikipedia.org
-  image: ""
-- curated_id: d886273c3b39170c9fde27a2a76bf1a5
-  item_date: "2014-07-15 00:00:00"
-  title: Human Confirmation Bias In Monitoring Of Systems
-  url: http://dyn.com/blog/human-confirmation-bias-in-monitoring-of-systems/
-  domain: dyn.com
-  image: ""
 - curated_id: 57d728a470ab92e8955853f116555d9c
   item_date: "2015-02-24 00:00:00"
   title: Algorithmia API Exposes Collective Knowledge of Developers
@@ -110,18 +98,18 @@
   url: https://dzone.com/articles/new-algorithm-tests-job-candidates-for-cultural-fi
   domain: dzone.com
   image: ""
-- curated_id: c3d3f1a0ef70a4f0fd97b2778f86a8c7
-  item_date: "2016-03-15 00:00:00"
-  title: Instagram to Switch to Algorithmic Feed Order
-  url: http://blog.instagram.com/post/141107034797/160315-news
-  domain: blog.instagram.com
-  image: ""
 - curated_id: 433e3dc105fd0e479ce0b31f56750abd
   item_date: "2016-03-15 00:00:00"
   title: 'Instagram is About to Change in a Huge Way: An Algorithm Based Timeline
     is Coming'
   url: https://blog.bufferapp.com/instagram-news-feed-algorithm
   domain: blog.bufferapp.com
+  image: ""
+- curated_id: c3d3f1a0ef70a4f0fd97b2778f86a8c7
+  item_date: "2016-03-15 00:00:00"
+  title: Instagram to Switch to Algorithmic Feed Order
+  url: http://blog.instagram.com/post/141107034797/160315-news
+  domain: blog.instagram.com
   image: ""
 - curated_id: 1cfa8cfb41302da269d8404f662c76cc
   item_date: "2016-03-15 00:00:00"
@@ -135,17 +123,17 @@
   url: http://thenextweb.com/twitter/2016/03/17/twitter-quietly-turned-new-algorithmic-timeline-everyone/
   domain: thenextweb.com
   image: ""
-- curated_id: 70e099413bacb6f7baa0f736dd6fa375
-  item_date: "2016-03-22 00:00:00"
-  title: Machine Algorithm Predicts Startup Success For Novelti
-  url: http://www.programmableweb.com/news/machine-algorithm-predicts-startup-success-novelti/brief/2016/03/22
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 59ed2cdd15410abeea8aeb0f421b530f
   item_date: "2016-03-22 00:00:00"
   title: 'SocialFlow U: Algorithmic Feeds in Social Networks'
   url: http://www.socialflow.com/socialflow-u-algorithmic-feeds-in-social-networks/
   domain: www.socialflow.com
+  image: ""
+- curated_id: 70e099413bacb6f7baa0f736dd6fa375
+  item_date: "2016-03-22 00:00:00"
+  title: Machine Algorithm Predicts Startup Success For Novelti
+  url: http://www.programmableweb.com/news/machine-algorithm-predicts-startup-success-novelti/brief/2016/03/22
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 1f31a13b2abf3f88cc4f8bf976b398d6
   item_date: "2016-03-23 00:00:00"
@@ -311,12 +299,6 @@
   url: http://blog.algorithmia.com/predictive-algorithms-track-real-time-health-trends/
   domain: blog.algorithmia.com
   image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2016-08-15 09:24:51"
-  title: Holding Algorithms Accountable ? Pacific Standard
-  url: https://medium.com/m/global-identity
-  domain: medium.com
-  image: ""
 - curated_id: eedfcc2141be071d7580fa4b8e067b45
   item_date: "2016-08-15 09:24:51"
   title: Holding Algorithms Accountable ? Pacific Standard
@@ -392,24 +374,17 @@
   url: http://www.niemanlab.org/2016/08/the-rise-of-mobile-could-create-a-second-class-digital-citizenship-of-less-informed-news-consumers/
   domain: www.niemanlab.org
   image: ""
-- curated_id: 67f1e6e5591c8845c2d1961323cfe9c2
-  item_date: "2016-08-30 00:00:00"
-  title: How Algorithms Shape Our World
-  url: http://adigaskell.org/2016/08/30/how-algorithms-shape-our-world/
-  domain: adigaskell.org
-  image: ""
 - curated_id: 443c6ea9b20ab924de426a383ef9a8a4
   item_date: "2016-08-30 00:00:00"
   title: Machine-learning model fed web content makes racist and sexist associations
   url: http://boingboing.net/2016/08/30/machine-learning-model-fed-web.html
   domain: boingboing.net
   image: ""
-- curated_id: 4f26e56b4b9944a2cf3a486c797891ca
-  item_date: "2016-08-31 00:00:00"
-  title: IBMs Watson sorted through over 100 film clips to create an algorithmically
-    perfect movie trailer
-  url: http://www.businessinsider.com/ibm-watson-morgan-movie-trailer-2016-8
-  domain: www.businessinsider.com
+- curated_id: 67f1e6e5591c8845c2d1961323cfe9c2
+  item_date: "2016-08-30 00:00:00"
+  title: How Algorithms Shape Our World
+  url: http://adigaskell.org/2016/08/30/how-algorithms-shape-our-world/
+  domain: adigaskell.org
   image: ""
 - curated_id: 32d119001ba9f334e07d3f097f359c40
   item_date: "2016-08-31 00:00:00"
@@ -417,6 +392,13 @@
     technology behind Zip
   url: http://www.zdnet.com/article/facebook-open-sources-zstandard-data-compression-algorithm-aims-to-replace-technology-behind-zip/
   domain: www.zdnet.com
+  image: ""
+- curated_id: 4f26e56b4b9944a2cf3a486c797891ca
+  item_date: "2016-08-31 00:00:00"
+  title: IBMs Watson sorted through over 100 film clips to create an algorithmically
+    perfect movie trailer
+  url: http://www.businessinsider.com/ibm-watson-morgan-movie-trailer-2016-8
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 8d33d361bfe703989938fd9f470e37a5
   item_date: "2016-08-31 00:00:00"
@@ -462,17 +444,17 @@
   url: https://techcrunch.com/2016/09/08/the-need-for-algorithmic-accountability/
   domain: techcrunch.com
   image: ""
-- curated_id: be79b7120283cb5c3c32bede3e18e870
-  item_date: "2016-09-09 00:00:00"
-  title: Why social data analysis needs human understanding
-  url: http://themediaonline.co.za/2016/09/why-social-data-analysis-needs-human-understanding/
-  domain: themediaonline.co.za
-  image: ""
 - curated_id: f8d9554e2466640c3ff21cef59b3c2cc
   item_date: "2016-09-09 00:00:00"
   title: How to Find Broken Links and Email Yourself a 404 Not Found Report
   url: http://blog.algorithmia.com/broken-links-404-not-found-report/
   domain: blog.algorithmia.com
+  image: ""
+- curated_id: be79b7120283cb5c3c32bede3e18e870
+  item_date: "2016-09-09 00:00:00"
+  title: Why social data analysis needs human understanding
+  url: http://themediaonline.co.za/2016/09/why-social-data-analysis-needs-human-understanding/
+  domain: themediaonline.co.za
   image: ""
 - curated_id: 6e4185c4cbc9c380928fb07907ef57fd
   item_date: "2016-09-10 22:09:22"
@@ -487,17 +469,17 @@
   url: http://papers.ssrn.com/sol3/papers.cfm
   domain: papers.ssrn.com
   image: ""
-- curated_id: c46c1141b6ac20a287ad8e19408807ad
-  item_date: "2016-09-12 00:00:00"
-  title: 'The Facebook Algorithm: What You Need to Know to Boost Organic Reach'
-  url: https://blog.hootsuite.com/facebook-algorithm/
-  domain: blog.hootsuite.com
-  image: ""
 - curated_id: 549890180f457e4c911d0df78e0162f9
   item_date: "2016-09-12 00:00:00"
   title: Why Algorithmic Trading is the Next Big Thing for Programmers
   url: http://www.programmableweb.com/news/why-algorithmic-trading-next-big-thing-programmers/sponsored-content/2016/09/12
   domain: www.programmableweb.com
+  image: ""
+- curated_id: c46c1141b6ac20a287ad8e19408807ad
+  item_date: "2016-09-12 00:00:00"
+  title: 'The Facebook Algorithm: What You Need to Know to Boost Organic Reach'
+  url: https://blog.hootsuite.com/facebook-algorithm/
+  domain: blog.hootsuite.com
   image: ""
 - curated_id: 22c6c4071f6fce08931c12affcdc8b9b
   item_date: "2016-09-12 07:05:47"
@@ -542,17 +524,17 @@
   url: https://www.crowdflower.com/more-data-beats-better-algorithms/
   domain: www.crowdflower.com
   image: ""
-- curated_id: f8655786d232847c97f78d7966a1f73f
-  item_date: "2016-09-23 00:00:00"
-  title: How YouTubes Recommendation Algorithm Works
-  url: https://www.infoq.com/news/2016/09/How-YouTube-Recommendation-Works
-  domain: www.infoq.com
-  image: ""
 - curated_id: 24efbea56bd3bbf864d062e7f7e008f3
   item_date: "2016-09-23 00:00:00"
   title: Is This Computer Algorithm Better Than Photo Editors?
   url: http://time.com/4445430/is-this-computer-algorithm-better-than-photo-editors/
   domain: time.com
+  image: ""
+- curated_id: f8655786d232847c97f78d7966a1f73f
+  item_date: "2016-09-23 00:00:00"
+  title: How YouTubes Recommendation Algorithm Works
+  url: https://www.infoq.com/news/2016/09/How-YouTube-Recommendation-Works
+  domain: www.infoq.com
   image: ""
 - curated_id: 42f047b01c70e92f3bec070febb37de3
   item_date: "2016-09-23 09:50:51"
@@ -640,17 +622,17 @@
   url: https://www.propublica.org/article/breaking-the-black-box-when-machines-learn-by-experimenting-on-us
   domain: www.propublica.org
   image: ""
-- curated_id: fd132d3c8ddd7798a51f434133b3a62f
-  item_date: "2016-10-17 00:00:00"
-  title: Sony develops algorithm based AI music
-  url: http://www.reuters.com/article/us-sony-algorithm-idUSKBN12H1ST
-  domain: www.reuters.com
-  image: ""
 - curated_id: f529e4dfcaf155f8bc0686885555152e
   item_date: "2016-10-17 00:00:00"
   title: Four Proven Ways to Make Social-Media Algorithms Work for You
   url: https://blogs.adobe.com/digitalmarketing/social-media/four-proven-ways-make-social-media-algorithms-work/
   domain: blogs.adobe.com
+  image: ""
+- curated_id: fd132d3c8ddd7798a51f434133b3a62f
+  item_date: "2016-10-17 00:00:00"
+  title: Sony develops algorithm based AI music
+  url: http://www.reuters.com/article/us-sony-algorithm-idUSKBN12H1ST
+  domain: www.reuters.com
   image: ""
 - curated_id: 0ef613136200a3be5066cb31f29af1c1
   item_date: "2016-10-19 00:00:00"
@@ -687,5 +669,265 @@
   title: Gaining Visibility into the ?Black Box? of At-Scale Data Storage...
   url: http://www.enterprisetech.com/2016/11/11/gaining-visibility-data-storage/
   domain: www.enterprisetech.com
+  image: ""
+- curated_id: 882787b8f3984cc706f6b27b68f80adc
+  item_date: "2016-12-25 00:00:00"
+  title: "Google\u2019s Brotli Compression Algorithm Lands to Windows Edge"
+  url: https://www.infoq.com/news/2016/12/brotli-microsoft-edge
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0e34a861c18004f1f0c24064ddefaa15
+  item_date: "2017-01-12 00:00:00"
+  title: "Why computers need to learn to \u2018disambiguate\u2019 people"
+  url: http://www.futurity.org/machine-learning-disambiguate-1334412-2/
+  domain: www.futurity.org
+  image: ""
+- curated_id: 6f6faefecb5658c1b89459e504dc3aab
+  item_date: "2017-01-12 00:00:00"
+  title: Banks biased against black fraud victims
+  url: https://www.lightbluetouchpaper.org/2017/01/12/banks-biased-against-black-fraud-victims/
+  domain: www.lightbluetouchpaper.org
+  image: ""
+- curated_id: 217809e25b5158a5c4a9fd5064cb4cdf
+  item_date: "2017-01-14 00:00:00"
+  title: The 280-Year-Old Algorithm Inside Google Trips
+  url: https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html
+  domain: research.googleblog.com
+  image: ""
+- curated_id: fe70f2318115f4c87f7e668104cf1091
+  item_date: "2017-01-16 17:54:25"
+  title: How We Trained an Algorithm to Predict What Makes a Beautiful Photo
+  url: https://medium.com/stories-from-eyeem/how-we-trained-an-algorithm-to-predict-what-makes-a-beautiful-photo-e8de8bccd642#.viotn2w96
+  domain: medium.com
+  image: ""
+- curated_id: 151f3a8e57bb3853abedeaf80bf70fa9
+  item_date: "2017-01-18 00:00:00"
+  title: "Most engineers are white \u2014 and so are the faces they use to train software"
+  url: http://www.recode.net/2017/1/18/14304964/data-facial-recognition-trouble-recognizing-black-white-faces-diversity
+  domain: www.recode.net
+  image: ""
+- curated_id: 3f241b56b9042c42f1d9011ba148369c
+  item_date: "2017-01-19 00:00:00"
+  title: Automatic SlideShare Text Summarization
+  url: http://blog.algorithmia.com/automatic-slideshare-text-summarization/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: 596c91c328e2b7bcc92c751265765a5a
+  item_date: "2017-01-20 22:09:15"
+  title: Algorithm Development is Broken 2014
+  url: http://blog.algorithmia.com/algorithm-development-is-broken/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: bf6ea459f4d8c9e9bc0575644a311116
+  item_date: "2017-01-31 00:00:00"
+  title: "Facebook tweaks News Feed to show more \u2018authentic\u2019 and \u2018timely\u2019
+    stories"
+  url: https://thenextweb.com/facebook/2017/01/31/facebook-tweaks-news-feed-show-authentic-timely-stories/
+  domain: thenextweb.com
+  image: ""
+- curated_id: ec695d25e5524289a2435742b54b7923
+  item_date: "2017-01-31 08:39:17"
+  title: "On Blackness and Data \u2013\_Mask Magazine"
+  url: http://www.maskmagazine.com/the-escape-issue/struggle/black-data
+  domain: www.maskmagazine.com
+  image: ""
+- curated_id: ecd0d9c0f8b8ec504974dd7bbdb79d6d
+  item_date: "2017-02-01 00:00:00"
+  title: Facebook Algorithm Tweak to Favor Authentic Content
+  url: http://www.pcmag.com/news/351485/facebook-algorithm-tweak-to-favor-authentic-content
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 0c63d3bae3da7382385c52d84b182320
+  item_date: "2017-02-07 00:00:00"
+  title: 'Algorithms and insults: Scaling up our understanding of harassment on Wikipedia'
+  url: https://blog.wikimedia.org/2017/02/07/scaling-understanding-of-harassment/
+  domain: blog.wikimedia.org
+  image: ""
+- curated_id: e487f962575a20587dcceef6919790f4
+  item_date: "2017-02-09 00:00:00"
+  title: The TSA knows its screening methods are unscientific and unreliable, says
+    ACLU report
+  url: http://www.theverge.com/2017/2/9/14558298/tsa-screening-unscientific-unreliable-aclu-report
+  domain: www.theverge.com
+  image: ""
+- curated_id: 7b1c828df986a22aa73f509c5fa844de
+  item_date: "2017-02-16 00:00:00"
+  title: 'Article: Real-World, Man-Machine Algorithms'
+  url: https://www.infoq.com/articles/ml-algorhitm
+  domain: www.infoq.com
+  image: ""
+- curated_id: 295e80a4be5304556cb7cf4b9baf54dd
+  item_date: "2017-02-27 00:00:00"
+  title: 'Instagram Algorithm: What You Need to Know to Boost Organic Reach'
+  url: https://blog.hootsuite.com/instagram-algorithm/
+  domain: blog.hootsuite.com
+  image: ""
+- curated_id: 12d1708a60ad8c5be6c96fc755a87ca8
+  item_date: "2017-02-27 00:00:00"
+  title: "Social Media Algorithms: How They Work and How to Use Them in Your Favor
+    \u2013 Michael Stelzner [SSM032]"
+  url: https://blog.bufferapp.com/social-media-algorithms-show-notes
+  domain: blog.bufferapp.com
+  image: ""
+- curated_id: 8e7138240652e20bc9dbdf7e84de4cd5
+  item_date: "2017-02-27 00:00:00"
+  title: "White nationalists seem to have manipulated Google search results for \u2018Boasian
+    anthropology\u2019"
+  url: http://www.theverge.com/2017/2/27/14748690/google-white-nationalist-boasian-anthropology-search-result
+  domain: www.theverge.com
+  image: ""
+- curated_id: 7927ede70d728ed980a6dd19f1afef6c
+  item_date: "2017-02-28 00:00:00"
+  title: 'The Algorithmic Insurer: Liberating and Leveraging Algorithms Ready for
+    The Fourth Industrial Revolution'
+  url: http://www.tibco.com/blog/2017/02/28/the-algorithmic-insurer-liberating-and-leveraging-algorithms-ready-for-the-fourth-industrial-revolution/
+  domain: www.tibco.com
+  image: ""
+- curated_id: f2ba387890711dfd198d97ca50821547
+  item_date: "2017-03-06 00:00:00"
+  title: Can Algorithms Predict House Fires?
+  url: http://datasmart.ash.harvard.edu/news/article/can-algorithms-predict-house-fires-990
+  domain: datasmart.ash.harvard.edu
+  image: ""
+- curated_id: ca80d243819ba61592f6995d42f84813
+  item_date: "2017-03-07 00:00:00"
+  title: Googles Algorithms Are Already Outperforming Pathologists
+  url: https://motherboard.vice.com/en_us/article/googles-algorithms-are-already-outperforming-pathologists-cancer
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 7e3abb4142c1505bc78cae0a1a88b98a
+  item_date: "2017-03-10 00:00:00"
+  title: Introducing new scaled algorithms for improved outlier detection
+  url: https://www.datadoghq.com/blog/scaling-outlier-algorithms/
+  domain: www.datadoghq.com
+  image: ""
+- curated_id: 1f250527106d2626236ebd27d6077b59
+  item_date: "2017-03-13 00:00:00"
+  title: Hack Your March Madness Bracket With the Algorithm Method
+  url: https://www.wired.com/2017/03/hack-your-ncaa-bracket/
+  domain: www.wired.com
+  image: ""
+- curated_id: 76b9b8382625721718e9fa404c411ece
+  item_date: "2017-03-14 00:00:00"
+  title: Tracking Google, other search engines for political bias
+  url: http://www.siliconbeat.com/2017/03/14/tracking-google-other-search-engines-for-political-bias/
+  domain: www.siliconbeat.com
+  image: ""
+- curated_id: b09c03c72c0a281e96fe70b66ec0eba1
+  item_date: "2017-03-14 00:00:00"
+  title: Blockchain misreads could set banks up for mistakes
+  url: https://www.americanbanker.com/news/blockchain-misreads-could-set-banks-up-for-mistakes
+  domain: www.americanbanker.com
+  image: ""
+- curated_id: 8bd3d45c3218d82415eab54a97e45d90
+  item_date: "2017-03-16 00:00:00"
+  title: The relationship between trading frequency and achievable alpha
+  url: http://www.automatedtrader.net/articles/strategies/157070/the-relationship-between-trading-frequency-and-achievable-alpha
+  domain: www.automatedtrader.net
+  image: ""
+- curated_id: 58b39f83b20281ab4edbb1042cbb2aa3
+  item_date: "2017-03-16 13:23:02"
+  title: Google Algorithmic Penalties Still Happen, Post-Penguin 4.0
+  url: https://moz.com/blog/google-algorithmic-penalties-post-penguin
+  domain: moz.com
+  image: ""
+- curated_id: 809fdd5e322a75ea8ebf5e71e011bd9c
+  item_date: "2017-03-17 16:20:08"
+  title: The Worlds Most Sophisticated Algorithm for Choosing a Med Speciality
+  url: http://almost.thedoctorschannel.com/the-worlds-most-sophisticated-alogrithm-for-choosing-a-med-speciality/
+  domain: almost.thedoctorschannel.com
+  image: ""
+- curated_id: 519025c654d50554f7fdc974b86d172d
+  item_date: "2017-03-17 16:20:22"
+  title: Matching Algorithm
+  url: http://www.nrmp.org/match-process/match-algorithm/
+  domain: www.nrmp.org
+  image: ""
+- curated_id: c85d7e23612168cdb5d9a3e2a9a63b64
+  item_date: "2017-04-11 00:00:00"
+  title: 'Pain-Driven Development: Why Greedy Algorithms Are Bad for Organizations'
+  url: https://dzone.com/articles/pain-driven-development-why-greedy-algorithms-are
+  domain: dzone.com
+  image: ""
+- curated_id: 8108473132ac877e253d85430c9b96fa
+  item_date: "2017-04-12 00:00:00"
+  title: 'Algorithmic IT Operations Drives Digital Business: Gartner'
+  url: http://www.cxotoday.com/story/algorithmic-it-operations-drives-digital-business-gartner/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: d88197b464aa681efd8f608d87b95f31
+  item_date: "2017-04-15 00:00:00"
+  title: '5 Things You Missed: AI Algorithms Are Biased, They Know What Youre Watching,
+    and More'
+  url: http://spectrum.ieee.org/tech-talk/at-work/innovation/5-things-you-missed-ai-algorithms-are-biased-they-know-what-youre-watching-and-more
+  domain: spectrum.ieee.org
+  image: ""
+- curated_id: c1332acea9bbc90517614c30f1152059
+  item_date: "2017-04-17 00:00:00"
+  title: 'Applied Rails: An Algorithmic Perspective'
+  url: https://dzone.com/articles/applied-rails-an-algorithmic-perspective
+  domain: dzone.com
+  image: ""
+- curated_id: 9d29566104ac44a3a657d13bd141aae3
+  item_date: "2017-04-17 00:00:00"
+  title: "Critics Notebook: How YouTube\u2019s Shifting Algorithms Hurt Independent
+    Media"
+  url: https://www.nytimes.com/2017/04/17/arts/youtube-broadcasters-algorithm-ads.html
+  domain: www.nytimes.com
+  image: ""
+- curated_id: 4b1437407e96a7ff0613f6405a99d595
+  item_date: "2017-04-17 08:15:12"
+  title: "What Will Happen When Your Company\u2019s Algorithms Go Wrong?"
+  url: http://hbr.stfi.re/2017/04/what-will-happen-when-your-companys-algorithms-go-wrong
+  domain: hbr.stfi.re
+  image: ""
+- curated_id: b2abc7dafbddf8d527f6a81f1df6042c
+  item_date: "2017-04-17 08:20:22"
+  title: Courts Are Using AI to Sentence Criminals. That Must Stop Now
+  url: https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/
+  domain: www.wired.com
+  image: ""
+- curated_id: 4861466ab1d693f209e74904fdeb6aa6
+  item_date: "2017-04-18 00:00:00"
+  title: Algorithm Aims to Predict Bickering Among Couples
+  url: http://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/algorithm-aims-to-predict-bickering-among-couples
+  domain: spectrum.ieee.org
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-04-18 09:56:01"
+  title: The future is algorithms, not code
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 925e9699316d7909be1cea7c14f1eba7
+  item_date: "2017-04-25 00:00:00"
+  title: Algorithm predicts epileptic seizures in real-time
+  url: http://www.futurity.org/machine-learning-epilepsy-seizures-1410972/
+  domain: www.futurity.org
+  image: ""
+- curated_id: b329ca03a61f8b9c0224b1fdab24bd51
+  item_date: "2017-04-27 15:48:09"
+  title: Transcending the Data-Algorithm-Dualism
+  url: https://tante.cc/2017/04/23/transcending-data-algorithm-dualism/
+  domain: tante.cc
+  image: ""
+- curated_id: fdfdc6a62e0ed5f290c40329c1618db3
+  item_date: "2017-04-30 00:00:00"
+  title: Algorithmic accountability
+  url: https://techcrunch.com/2017/04/30/algorithmic-accountability/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 6ef7ea3a55439f26181cba79310561ec
+  item_date: "2017-05-06 20:00:10"
+  title: 'Algorithmic risk-assessment: hiding racism behind &quot;empirical&quot;
+    black boxes / Boing Boing'
+  url: https://boingboing.net/2016/05/24/algorithmic-risk-assessment-h.html
+  domain: boingboing.net
+  image: ""
+- curated_id: ed411e5fa48d9ea85a49e59c5c625023
+  item_date: "2017-05-11 00:00:00"
+  title: "4 ways to use Facebook\u2019s algorithm to your advantage"
+  url: https://www.sharethis.com/best-practices/2017/05/4-ways-to-use-facebooks-algorithm-to-your-advantage/
+  domain: www.sharethis.com
   image: ""
 ...
