@@ -162,7 +162,6 @@ title: API Evangelist - Algorithms & APIs
 				{% if approved_tags contains tag and tag != site.tag %}
 				<br />{{ tagslist }} CONTAINS {{ tag }}<br />
 					{% if tagslist contains tag %}
-					{% else %}
 						{% if tagslist != '' %}
 							{% assign tagslist = tagslist | append:',' %}
 						{% endif %}
